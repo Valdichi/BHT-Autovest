@@ -6,7 +6,7 @@ require "lib.moonloader"
 require "lib.sampfuncs"
 local json = require("lib.json") -- To parse JSON if needed
 
-local update_url = "https://raw.githubusercontent.com/username/repository/branch/guardnear.lua"
+local update_url = "https://raw.githubusercontent.com/Valdichi/BHT-Autovest/refs/heads/main/autovest%20update.lua"
 local script_path = thisScript().path -- Path to the current script file
 
 local Activate = false
